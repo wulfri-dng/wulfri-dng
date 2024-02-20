@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/wulfri"><img src="./devcard.png" width="356" alt="Wulfri's Dev Card"/></a>
+<a href="https://app.daily.dev/wulfri"><img src="./devcard.png?type=wide&r=1wy" width="356" alt="Wulfri's Dev Card"/></a>
 <!--
 **wulfri-dng/wulfri-dng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
