@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/wulfri"><img src="https://api.daily.dev/devcards/v2/ZMAS1pECVJXB60N4qmzLJ.png?type=wide&r=mba" width="652" alt="Danusha Navod's Dev Card"/></a>
+<a href="https://app.daily.dev/wulfri"><img src="https://api.daily.dev/devcards/v2/ZMAS1pECVJXB60N4qmzLJ.png?type=wide&r=uof" width="652" alt="Danusha Navod's Dev Card"/></a>
 <!--
 **wulfri-dng/wulfri-dng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
